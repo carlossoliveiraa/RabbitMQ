@@ -1,0 +1,11 @@
+C:\Git\Desafio-B3-Net\src\Desafio-B3.Application\bin\Release\net6.0\Desafio-B3.Application.deps.json
+C:\Git\Desafio-B3-Net\src\Desafio-B3.Application\bin\Release\net6.0\Desafio-B3.Application.dll
+C:\Git\Desafio-B3-Net\src\Desafio-B3.Application\bin\Release\net6.0\Desafio-B3.Application.pdb
+C:\Git\Desafio-B3-Net\src\Desafio-B3.Application\obj\Release\net6.0\Desafio-B3.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Desafio-B3-Net\src\Desafio-B3.Application\obj\Release\net6.0\Desafio-B3.Application.AssemblyInfoInputs.cache
+C:\Git\Desafio-B3-Net\src\Desafio-B3.Application\obj\Release\net6.0\Desafio-B3.Application.AssemblyInfo.cs
+C:\Git\Desafio-B3-Net\src\Desafio-B3.Application\obj\Release\net6.0\Desafio-B3.Application.csproj.CoreCompileInputs.cache
+C:\Git\Desafio-B3-Net\src\Desafio-B3.Application\obj\Release\net6.0\Desafio-B3.Application.dll
+C:\Git\Desafio-B3-Net\src\Desafio-B3.Application\obj\Release\net6.0\refint\Desafio-B3.Application.dll
+C:\Git\Desafio-B3-Net\src\Desafio-B3.Application\obj\Release\net6.0\Desafio-B3.Application.pdb
+C:\Git\Desafio-B3-Net\src\Desafio-B3.Application\obj\Release\net6.0\ref\Desafio-B3.Application.dll

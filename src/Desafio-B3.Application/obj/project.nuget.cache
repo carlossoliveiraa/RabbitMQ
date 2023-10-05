@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "sf+RaOXkVK/V9EX2JPz3tEztEsO/3VAs/fCQKaLdZpkhMimjFwUhld0Jo+SmkDDbqN04ao4uuWC54lV5uq2O8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\DesafioB3-BackEnd\\src\\Desafio-B3.Application\\ImplementandoRabiitMQ.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\serilog\\3.0.1\\serilog.3.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

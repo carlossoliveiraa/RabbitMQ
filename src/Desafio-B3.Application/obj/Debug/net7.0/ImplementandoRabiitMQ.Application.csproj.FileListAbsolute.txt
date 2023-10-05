@@ -1,0 +1,12 @@
+C:\Git\DesafioB3-BackEnd\src\Desafio-B3.Application\bin\Debug\net7.0\ImplementandoRabiitMQ.Application.deps.json
+C:\Git\DesafioB3-BackEnd\src\Desafio-B3.Application\bin\Debug\net7.0\ImplementandoRabiitMQ.Application.dll
+C:\Git\DesafioB3-BackEnd\src\Desafio-B3.Application\bin\Debug\net7.0\ImplementandoRabiitMQ.Application.pdb
+C:\Git\DesafioB3-BackEnd\src\Desafio-B3.Application\obj\Debug\net7.0\ImplementandoRabiitMQ.Application.csproj.AssemblyReference.cache
+C:\Git\DesafioB3-BackEnd\src\Desafio-B3.Application\obj\Debug\net7.0\ImplementandoRabiitMQ.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\DesafioB3-BackEnd\src\Desafio-B3.Application\obj\Debug\net7.0\ImplementandoRabiitMQ.Application.AssemblyInfoInputs.cache
+C:\Git\DesafioB3-BackEnd\src\Desafio-B3.Application\obj\Debug\net7.0\ImplementandoRabiitMQ.Application.AssemblyInfo.cs
+C:\Git\DesafioB3-BackEnd\src\Desafio-B3.Application\obj\Debug\net7.0\ImplementandoRabiitMQ.Application.csproj.CoreCompileInputs.cache
+C:\Git\DesafioB3-BackEnd\src\Desafio-B3.Application\obj\Debug\net7.0\ImplementandoRabiitMQ.Application.dll
+C:\Git\DesafioB3-BackEnd\src\Desafio-B3.Application\obj\Debug\net7.0\refint\ImplementandoRabiitMQ.Application.dll
+C:\Git\DesafioB3-BackEnd\src\Desafio-B3.Application\obj\Debug\net7.0\ImplementandoRabiitMQ.Application.pdb
+C:\Git\DesafioB3-BackEnd\src\Desafio-B3.Application\obj\Debug\net7.0\ref\ImplementandoRabiitMQ.Application.dll
